@@ -1,0 +1,7 @@
+C:\Users\Adiel Silva\source\repos\Livros_Lista\Livros_Lista\bin\Debug\Livros_Lista.exe.config
+C:\Users\Adiel Silva\source\repos\Livros_Lista\Livros_Lista\bin\Debug\Livros_Lista.exe
+C:\Users\Adiel Silva\source\repos\Livros_Lista\Livros_Lista\bin\Debug\Livros_Lista.pdb
+C:\Users\Adiel Silva\source\repos\Livros_Lista\Livros_Lista\obj\Debug\Livros_Lista.csprojAssemblyReference.cache
+C:\Users\Adiel Silva\source\repos\Livros_Lista\Livros_Lista\obj\Debug\Livros_Lista.csproj.CoreCompileInputs.cache
+C:\Users\Adiel Silva\source\repos\Livros_Lista\Livros_Lista\obj\Debug\Livros_Lista.exe
+C:\Users\Adiel Silva\source\repos\Livros_Lista\Livros_Lista\obj\Debug\Livros_Lista.pdb
